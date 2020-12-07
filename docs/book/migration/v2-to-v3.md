@@ -10,7 +10,7 @@ The `Laminas\Json\Server` subcomponent was extracted to a new component,
 using:
 
 ```bash
-$ composer install laminas/laminas-json-server
+$ composer require laminas/laminas-json-server
 ```
 
 All classes and functionality remain the same as in previous versions of
@@ -24,7 +24,7 @@ to a new component, [laminas-xml2json](https://docs.laminas.dev/laminas-xml2json
 Install it using:
 
 ```bash
-$ composer install laminas/laminas-xml2json
+$ composer require laminas/laminas-xml2json
 ```
 
 In order to use the functionality, you will need to modify your calls from
